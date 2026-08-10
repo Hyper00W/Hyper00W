@@ -1,30 +1,64 @@
-# 💫 About Me:
+# 👋 About Me:
+
 Hey! I'm Aditya, a Computer Science student who enjoys building projects, learning new technologies, and solving problems through code.
 
-🚀 Currently exploring Backend Development, System Design, and AI-powered applications.<br>
+🚀 Currently exploring **Backend Development, System Design, LLMs, RAG, and AI-powered applications.**<br>
+🤖 Learning **LangChain, LangGraph, Embeddings, Vector Databases, and AI Agents.**<br>
 💡 I believe the best way to learn is by building real-world projects.<br>
 🌱 Always learning, always shipping.
 
-> *"There are two types of people: those who save money... and those who buy limited-edition figures."*  
+> *"There are two types of people: those who save money... and those who buy limited-edition figures."*
 
 ---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge=numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 AI / LLM
+
+![Python](https://skillicons.dev/icons?i=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-1877F2?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### ⚙️ Backend
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Python](https://skillicons.dev/icons?i=python)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+### 🗄️ Databases & Data
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+
+### 🌐 Development
+
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+### 🧩 Core CS
+
+**DSA • OOP • DBMS • Operating Systems • Computer Networks • System Design**
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Hyper00W&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔥 Currently Learning
+
+`LLMs` → `Embeddings` → `Vector Search` → `RAG` → `LangChain` → `LangGraph` → `AI Agents`
+
+`FastAPI` → `PostgreSQL` → `Redis` → `Celery` → `WebSockets` → `Docker`
+
+---
