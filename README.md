@@ -2,68 +2,139 @@
   <img src="./assets/5cf63035b14a1ce4a3701ba76afcbd9c.jpg" width="100%">
 </p>
 
+<p align="center">
+  † ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ †
+</p>
 
-# 👋 About Me:
+<h1 align="center">𖤐 ADITYA 𖤐</h1>
 
-Hey! I'm Aditya, a Computer Science student who enjoys building projects, learning new technologies, and solving problems through code.
+<p align="center">
+  <code>Computer Science</code> · <code>Backend</code> · <code>AI</code> · <code>RAG</code>
+</p>
 
-🚀 Currently exploring **Backend Development, System Design, LLMs, RAG, and AI-powered applications.**<br>
-🤖 Learning **LangChain, LangGraph, Embeddings, Vector Databases, and AI Agents.**<br>
-💡 I believe the best way to learn is by building real-world projects.<br>
-🌱 Always learning, always shipping.
+<p align="center">
+  ☾ ───────────────────────────── ☽
+</p>
 
-> *"There are two types of people: those who save money... and those who buy limited-edition figures."*
+<br>
 
----
+<h2 align="center">† ABOUT</h2>
 
-# 💻 Tech Stack:
+<p align="center">
+  Computer Science student focused on building backend systems,<br>
+  AI-powered applications, and understanding how systems work underneath.
+</p>
 
-### 🧠 AI / LLM
+<p align="center">
+  <code>Backend Development</code> ·
+  <code>System Design</code> ·
+  <code>LLMs</code> ·
+  <code>RAG</code> ·
+  <code>DSA</code>
+</p>
 
-![Python](https://skillicons.dev/icons?i=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-1877F2?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<br>
 
-### ⚙️ Backend
+<p align="center">
+  𖤐 ───────────────────────────────────────── 𖤐
+</p>
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Python](https://skillicons.dev/icons?i=python)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Docker](https://skillicons.dev/icons?i=docker)
+<h2 align="center">⛧ TECHNOMANCY</h2>
 
-### 🗄️ Databases & Data
+<h3 align="center">† AI / LLM</h3>
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![NumPy](https://skillicons.dev/icons?i=numpy)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python">
+</p>
 
-### 🌐 Development
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FAISS-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
+</p>
 
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+<h3 align="center">† BACKEND</h3>
 
-### 🧩 Core CS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,redis,docker">
+</p>
 
-**DSA • OOP • DBMS • Operating Systems • Computer Networks • System Design**
+<h3 align="center">† DATABASES / DATA</h3>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pandas,numpy">
+</p>
 
-### 🔥 Currently Learning
+<h3 align="center">† DEVELOPMENT</h3>
 
-`LLMs` → `Embeddings` → `Vector Search` → `RAG` → `LangChain` → `LangGraph` → `AI Agents`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,react,nodejs,git,github,vscode">
+</p>
 
-`FastAPI` → `PostgreSQL` → `Redis` → `Celery` → `WebSockets` → `Docker`
+<br>
 
----
+<p align="center">
+  ☽ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ☾
+</p>
+
+<h2 align="center">𖤐 CORE</h2>
+
+<p align="center">
+  <code>DSA</code> ·
+  <code>OOP</code> ·
+  <code>DBMS</code> ·
+  <code>Operating Systems</code> ·
+  <code>Computer Networks</code> ·
+  <code>System Design</code>
+</p>
+
+<br>
+
+<p align="center">
+  𖤐 ───────────────────────────────────────── 𖤐
+</p>
+
+<h2 align="center">† CURRENTLY LEARNING</h2>
+
+<p align="center">
+  <code>LLMs</code>
+  →
+  <code>Embeddings</code>
+  →
+  <code>Vector Search</code>
+  →
+  <code>RAG</code>
+  →
+  <code>LangChain</code>
+  →
+  <code>LangGraph</code>
+  →
+  <code>AI Agents</code>
+</p>
+
+<p align="center">
+  <code>FastAPI</code>
+  →
+  <code>PostgreSQL</code>
+  →
+  <code>Redis</code>
+  →
+  <code>Celery</code>
+  →
+  <code>WebSockets</code>
+  →
+  <code>Docker</code>
+</p>
+
+<br>
+
+<p align="center">
+  † ━━━━━━━━━━━━━ ☾ ━━━━━━━━━━━━━ 𖤐 ━━━━━━━━━━━━━ ☽ ━━━━━━━━━━━━━ †
+</p>
+
+<p align="center">
+  <sub>ADITYA · 2026</sub>
+</p>
