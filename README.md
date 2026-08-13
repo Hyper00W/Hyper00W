@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/5cf63035b14a1ce4a3701ba76afcbd9c.png" width="100%">
+</p>
+
+
 # 👋 About Me:
 
 Hey! I'm Aditya, a Computer Science student who enjoys building projects, learning new technologies, and solving problems through code.
