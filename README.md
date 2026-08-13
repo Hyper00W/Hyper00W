@@ -3,45 +3,41 @@
 </p>
 
 <p align="center">
-  † ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ †
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h1 align="center">𖤐 ADITYA 𖤐</h1>
+<h1 align="center">𖤐 ADITYA</h1>
 
 <p align="center">
-  <code>Computer Science</code> · <code>Backend</code> · <code>AI</code> · <code>RAG</code>
+  <sub>COMPUTER SCIENCE · BACKEND · AI · RAG</sub>
 </p>
 
 <p align="center">
-  ☾ ───────────────────────────── ☽
+  ┈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┈
 </p>
 
 <br>
 
-<h2 align="center">† ABOUT</h2>
+<h2 align="center">ABOUT</h2>
 
 <p align="center">
-  Computer Science student focused on building backend systems,<br>
-  AI-powered applications, and understanding how systems work underneath.
+  Computer Science student building backend systems,<br>
+  AI-powered applications and exploring system architecture.
 </p>
 
 <p align="center">
-  <code>Backend Development</code> ·
-  <code>System Design</code> ·
-  <code>LLMs</code> ·
-  <code>RAG</code> ·
-  <code>DSA</code>
+  <code>Backend</code> · <code>System Design</code> · <code>AI</code> · <code>RAG</code> · <code>DSA</code>
 </p>
 
 <br>
 
 <p align="center">
-  𖤐 ───────────────────────────────────────── 𖤐
+  ◈ ───────────────────────────────────────── ◈
 </p>
 
-<h2 align="center">⛧ TECHNOMANCY</h2>
+<h2 align="center">TECH STACK</h2>
 
-<h3 align="center">† AI / LLM</h3>
+<h3 align="center">AI / LLM</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python">
@@ -56,19 +52,19 @@
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
 </p>
 
-<h3 align="center">† BACKEND</h3>
+<h3 align="center">BACKEND</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,redis,docker">
 </p>
 
-<h3 align="center">† DATABASES / DATA</h3>
+<h3 align="center">DATABASES / DATA</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pandas,numpy">
 </p>
 
-<h3 align="center">† DEVELOPMENT</h3>
+<h3 align="center">DEVELOPMENT</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,javascript,react,nodejs,git,github,vscode">
@@ -77,27 +73,27 @@
 <br>
 
 <p align="center">
-  ☽ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ☾
+  ◈ ───────────────────────────────────────── ◈
 </p>
 
-<h2 align="center">𖤐 CORE</h2>
+<h2 align="center">CORE</h2>
 
 <p align="center">
   <code>DSA</code> ·
   <code>OOP</code> ·
   <code>DBMS</code> ·
-  <code>Operating Systems</code> ·
-  <code>Computer Networks</code> ·
-  <code>System Design</code>
+  <code>OPERATING SYSTEMS</code> ·
+  <code>NETWORKING</code> ·
+  <code>SYSTEM DESIGN</code>
 </p>
 
 <br>
 
 <p align="center">
-  𖤐 ───────────────────────────────────────── 𖤐
+  ┈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┈
 </p>
 
-<h2 align="center">† CURRENTLY LEARNING</h2>
+<h2 align="center">CURRENTLY LEARNING</h2>
 
 <p align="center">
   <code>LLMs</code>
@@ -132,7 +128,7 @@
 <br>
 
 <p align="center">
-  † ━━━━━━━━━━━━━ ☾ ━━━━━━━━━━━━━ 𖤐 ━━━━━━━━━━━━━ ☽ ━━━━━━━━━━━━━ †
+  ◈ &nbsp;&nbsp; ☾ &nbsp;&nbsp; ◈
 </p>
 
 <p align="center">
