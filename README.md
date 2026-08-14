@@ -72,26 +72,3 @@ I prefer learning by building real projects and experimenting with the technolog
 </p>
 
 <br>
-
-## Core Computer Science
-
-| Area | Topics |
-|------|--------|
-| **DSA** | Data Structures · Algorithms · Problem Solving |
-| **Programming** | C++ · Python · JavaScript |
-| **Databases** | PostgreSQL · MongoDB · Redis |
-| **Systems** | Operating Systems · Computer Networks |
-| **Design** | OOP · SOLID · System Design |
-
-<br>
-
-## Currently Learning
-
-```text
-LLMs
-  └── Embeddings
-       └── Vector Search
-            └── RAG
-                 └── LangChain
-                      └── LangGraph
-                           └── AI Agents
